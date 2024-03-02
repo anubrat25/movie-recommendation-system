@@ -20,7 +20,7 @@ The recommendation system employs the cosine similarity metric to calculate the 
 Usage
 To use the movie recommendation system:
 
-Clone the repository: git clone https://github.com/your-username/movie-recommendation-system.git
+Clone the repository: git clone https://github.com/anubrat25/Movie-Recommendation-System
 Install the required dependencies: pip install -r requirements.txt
 Run the recommendation system: python recommendation_system.py
 Input user preferences or viewing history when prompted.
