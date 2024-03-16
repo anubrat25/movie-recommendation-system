@@ -1,4 +1,4 @@
-This Movie Recommendation System project implements a movie recommendation system based on cosine similarity.
+The Movie Recommendation System project implements a movie recommendation system based on cosine similarity.
 
 Table of Contents
 1. Introduction
